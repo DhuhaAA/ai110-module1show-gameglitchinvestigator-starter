@@ -5,10 +5,21 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 ## 1. What was broken when you started?
 
 - What did the game look like the first time you ran it?
+
+
+ it asked us to guess a number and every time we added a number it tolds us to go higher or lower, however, no matter what number we put it keeps trying to take it more higher or more lower
+
+
+
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
+first bug : if the number for example is 33 and we inputted 40 it will keep saying higher until we reach 100 than it would display the message that we were wrong 
+
+
+second bug was that when selecting easy level which it's range is from 1 to 20, and we inputted 5 (also have 5 tries) we kept getting lower messsage over and over until we reached 1 than the secert was 63 which was not in the range! 
 ---
+
 
 ## 2. How did you use AI as a teammate?
 
